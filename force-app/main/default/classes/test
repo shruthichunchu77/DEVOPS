@@ -1,3 +1,10 @@
-public class test{
-    
+public with sharing class test{
+
+    public test(){
+
+    }
+    public integer add(integer a, integer b){
+        return a+b;
+    }
+
 }
